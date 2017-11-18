@@ -1,0 +1,12 @@
+.header{
+  background-color: olive;
+}
+
+.header h1, h2{
+  color: #ffffff;
+}
+
+.tagline, h3{
+  background-color: olive;
+  color: #ffffff;
+}
